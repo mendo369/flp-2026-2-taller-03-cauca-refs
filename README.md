@@ -17,12 +17,12 @@ Esta tabla es lo que identifica al grupo. Sin ella, o con algún dato
 incompleto, la entrega pierde el 20 %; quien no aparezca aquí no cuenta como
 parte del grupo.
 
-| Nombre completo | Código | Correo institucional |
-|---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
+| Nombre completo            | Código  | Correo institucional               |
+| -------------------------- | ------- | ---------------------------------- |
+| Luis David Mendoza Manzano | 2067621 | mendoza.luis@correounivalle.edu.co |
+|                            |         |                                    |
+|                            |         |                                    |
+|                            |         |                                    |
 
 ## Cómo se entrega
 
@@ -37,7 +37,7 @@ parte del grupo.
    `.md` en `docs/`. Fórmulas en LaTeX y diagramas en Mermaid dentro del
    Markdown; no se aceptan PDF, DOCX ni imágenes.
 5. Las primeras líneas de cada `.rkt` llevan los autores:
-   `;Autores: Nombre1 Codigo1, Nombre2 Codigo2`.
+   `;Autores: Luis David Mendoza Manzano 2067621`.
 6. El historial de commits se revisa para ver el aporte de cada integrante.
    Los cambios de puro formato o de comentarios no cuentan.
 
